@@ -46,10 +46,6 @@ function getFormattedSeconds() {
   return formattedSeconds;
 }
 
-/* This function retrieves the values from the html input elements; Sort of
-   getting run in the background, it sets the totalSeconds variable which
-   is used in getFormattedMinutes/Seconds() and the renderTime() function.
-   It essentially resets our timer */
 function setTime() {
   var minutes;
 
