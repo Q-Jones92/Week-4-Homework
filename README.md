@@ -1,0 +1,1 @@
+When the user accesses the page they will be prompted to to do a quiz with 10 mins to answer all questions. The timer will on users entrance to the page.
